@@ -7,4 +7,5 @@ charts:
 
 index:
 	helm repo index ./ --url https://vkumbhar94.github.io/helm-charts-test
+	sed -i 's/\/docs//g' index.yaml
 	mv index.yaml ./docs
