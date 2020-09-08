@@ -2,7 +2,25 @@ apiVersion: v1
 entries:
   argus-test-env:
   - apiVersion: v2
-    created: "2020-09-08T09:54:13.847467714Z"
+    created: "2020-09-08T09:56:50.019314347Z"
+    description: A Helm chart for sem version checks
+    digest: 191471b209bc1d4de59ae5860f20b830b875de6341db4399384b97e3c5f5da85
+    name: argus-test-env
+    type: application
+    urls:
+    - https://vkumbhar94.github.io/helm-charts-test/argus-test-env-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    created: "2020-09-08T09:56:50.018750286Z"
+    description: A Helm chart for sem version checks
+    digest: 43bbf411154cb08c89625d3fe17683ea531bd7556f8c5a9191810b1d2b923287
+    name: argus-test-env
+    type: application
+    urls:
+    - https://vkumbhar94.github.io/helm-charts-test/argus-test-env-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    created: "2020-09-08T09:56:50.018281076Z"
     description: A Helm chart for sem version checks
     digest: 4d6caafc27b4c655bfb55d5edde3fb835e6ab8af0de089b67445e8d91df72df4
     name: argus-test-env
@@ -11,7 +29,7 @@ entries:
     - https://vkumbhar94.github.io/helm-charts-test/argus-test-env-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2020-09-08T09:54:13.846989371Z"
+    created: "2020-09-08T09:56:50.017770654Z"
     description: A Helm chart for sem version checks
     digest: 2a9cbd6fdbad6f84f67459c11266d0d7cf0b550382413e0fbf96101416ea54fb
     name: argus-test-env
@@ -19,4 +37,4 @@ entries:
     urls:
     - https://vkumbhar94.github.io/helm-charts-test/argus-test-env-1.0.0.tgz
     version: 1.0.0
-generated: "2020-09-08T09:54:13.846293402Z"
+generated: "2020-09-08T09:56:50.017069706Z"
